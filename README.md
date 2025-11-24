@@ -60,7 +60,7 @@ A modern, professional teleprompter web app built with **React**, **Vite**, and 
 
 ### Keyboard Shortcuts
 
-| Action                | Shortcut      |
+| Action                | Shortcut     |
 |-----------------------|--------------|
 | Play/Pause            | `Space`      |
 | Reset                 | `R`          |
