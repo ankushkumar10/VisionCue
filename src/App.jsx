@@ -10,7 +10,7 @@ import NotFoundPage from './pages/NotFoundPage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/VisionCue">
       <ThemeProvider>
         <SettingsProvider>
           <ScriptProvider>
