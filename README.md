@@ -60,7 +60,7 @@ A modern, professional teleprompter web app built with **React**, **Vite**, and 
    ```
 5. **Open in your browser:**
    ```
-   http://localhost:517
+   http://localhost:5173
    ```
 ---
 
