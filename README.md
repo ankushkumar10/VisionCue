@@ -1,8 +1,21 @@
-# VisionCue
+# VisionCue <img src="src/assets/logo.png" style="height: 28px"> 
+
+<div align="center">
+   <img src="src/assets/logo.png" style="height: 58px"><img src="src/assets/invertedTextLogo.png" style="height: 58px">
+</div>
+</br>
 
 A modern, professional teleprompter web app built with **React**, **Vite**, and **Tailwind CSS**. Designed for presenters, streamers, and content creators, VisionCue offers a polished, accessible, and highly customizable teleprompter experience—right in your browser.
 
-![VisionCue Screenshot](./screenshot.png)
+</br>
+
+|  Homepage  |  Prompter  |
+|-----------|-----------|
+| ![Homepage](src/assets/screenshots/visioncue_homepage.png) | ![Prompter](src/assets/screenshots/visioncue_prompter.png) |
+
+|  Settings  |
+|-----------|
+| ![Settings](src/assets/screenshots/visioncue-settings.png) |
 
 ---
 
@@ -28,7 +41,7 @@ A modern, professional teleprompter web app built with **React**, **Vite**, and 
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16+ recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 
 ### Installation
 
